@@ -1,0 +1,34 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build directories
+/bin/
+/build/
+/dist/
+
+# Go coverage profiles
+*.cover
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency management (optional if vendor dir is used)
+vendor/
+
+# OS/system files
+.DS_Store
+Thumbs.db
